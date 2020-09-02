@@ -1,0 +1,33 @@
+header{
+    background-color: rgb(78, 76, 76);
+    height: 200px;
+    width: 100%;
+}
+
+.light-grey{
+    background-color: rgb(187, 185, 185);
+    height: 700px;
+    width: 150px;
+    display: inline-block;
+}
+
+.white{
+    background-color: white;
+    height: 700px;
+    width: 1116px;
+    display: inline-block;
+}
+
+.lg-small{
+    background-color: rgb(187, 185, 185);
+    height: 150px;
+    width: 150px;
+    display: inline-block;
+}
+
+.dark-grey{
+    background-color: rgb(48, 47, 47);
+    height: 150px;
+    width: 1116px;
+    display: inline-block;
+}

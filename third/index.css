@@ -1,0 +1,48 @@
+.row{
+    height: 100px;
+    width: 100%;
+
+}
+
+.row1{
+    background-color: #D8D8D8;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.row2{
+    background-color: #fff;
+    height: 200px;
+}
+
+.row3{
+    background-color: #4A90E2
+}
+
+.row4{
+    background-color: #50E3C2
+}
+
+.row5{
+    background-color: #B8E986
+}
+
+.row6{
+    background-color: #F8E71C
+}
+
+p{
+    text-align: left;
+    padding: 50px; 
+}
+
+.float-box{
+    background-color: #4A90E2;
+    height: 50px;
+    width: 50px;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
